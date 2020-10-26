@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19-oct-2020, 17:18:58
+    Author     : Flori
+*/
+body{
+    background-color:rosybrown;
+    font-family: cursive;
+        
+    
+}
+#contenido{
+    margin-left: 450px;
+    margin-top:150px;
+    border:1px;
+    padding:15px;   
+}
+label{
+    margin:20px;
+}
+table{
+    border-color:black;
+}
+tr{
+   
+    height:350px;
+}
+td{
+    width:750px;
+}
+img{
+     width: 70px; height: 70px;
+     margin:15px;
+     
+}
+#calc{
+   float:right;
+   font-size: 30px;
+   padding:13px;
+   margin-right:250px;
+}
+
